@@ -1,0 +1,13 @@
+# Ignorar Makefiles
+Makefile
+**/Makefile
+
+# Ignorar binarios compilados y objetos
+*.o
+*.bin
+*.out
+*.exe
+
+# Ignorar archivos de datos de procesamiento (.fasta, .zip)
+*.fasta
+*.zip
