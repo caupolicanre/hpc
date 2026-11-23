@@ -11,3 +11,6 @@ Makefile
 # Ignorar archivos de datos de procesamiento (.fasta, .zip)
 *.fasta
 *.zip
+
+# Errores
+/errors
