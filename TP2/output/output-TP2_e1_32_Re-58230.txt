@@ -1,0 +1,1 @@
+Procesos: 32 | T_secuencial: 309.2182 ms | T_arbol: 51.0687 ms

@@ -1,0 +1,3 @@
+Procesos: 1 | Matriz: 512x512 | Tiempo: 0.134406 s | C[0]: 1024.0 (Esperado: 1024.0)
+Procesos: 1 | Matriz: 1024x1024 | Tiempo: 1.127414 s | C[0]: 2048.0 (Esperado: 2048.0)
+Procesos: 1 | Matriz: 2048x2048 | Tiempo: 9.683482 s | C[0]: 4096.0 (Esperado: 4096.0)

@@ -1,0 +1,30 @@
+Particion: 1000 | Primos totales: 664579
+  P0 -> Calculo: 0.657254 s | Sync/Comm: 0.109448 s | Total: 0.766702 s | Primos: 133119
+  P1 -> Calculo: 0.658082 s | Sync/Comm: 0.108608 s | Total: 0.766690 s | Primos: 132993
+  P2 -> Calculo: 0.685858 s | Sync/Comm: 0.080833 s | Total: 0.766691 s | Primos: 132667
+  P3 -> Calculo: 0.766480 s | Sync/Comm: 0.000077 s | Total: 0.766558 s | Primos: 133045
+  P4 -> Calculo: 0.723266 s | Sync/Comm: 0.043274 s | Total: 0.766540 s | Primos: 132755
+Particion: 10000 | Primos totales: 664579
+  P0 -> Calculo: 0.662409 s | Sync/Comm: 0.071105 s | Total: 0.733513 s | Primos: 133317
+  P1 -> Calculo: 0.618615 s | Sync/Comm: 0.114857 s | Total: 0.733473 s | Primos: 132866
+  P2 -> Calculo: 0.619241 s | Sync/Comm: 0.114231 s | Total: 0.733473 s | Primos: 132983
+  P3 -> Calculo: 0.731829 s | Sync/Comm: 0.001546 s | Total: 0.733375 s | Primos: 132639
+  P4 -> Calculo: 0.733348 s | Sync/Comm: 0.000021 s | Total: 0.733370 s | Primos: 132774
+Particion: 100000 | Primos totales: 664579
+  P0 -> Calculo: 0.682927 s | Sync/Comm: 0.034477 s | Total: 0.717404 s | Primos: 134746
+  P1 -> Calculo: 0.613485 s | Sync/Comm: 0.103147 s | Total: 0.716632 s | Primos: 133395
+  P2 -> Calculo: 0.620853 s | Sync/Comm: 0.095772 s | Total: 0.716625 s | Primos: 132579
+  P3 -> Calculo: 0.709519 s | Sync/Comm: 0.006998 s | Total: 0.716517 s | Primos: 132306
+  P4 -> Calculo: 0.716492 s | Sync/Comm: 0.000014 s | Total: 0.716506 s | Primos: 131553
+Particion: 1000000 | Primos totales: 664579
+  P0 -> Calculo: 0.525060 s | Sync/Comm: 0.227656 s | Total: 0.752716 s | Primos: 142834
+  P1 -> Calculo: 0.566338 s | Sync/Comm: 0.186341 s | Total: 0.752679 s | Primos: 134234
+  P2 -> Calculo: 0.634268 s | Sync/Comm: 0.118412 s | Total: 0.752680 s | Primos: 131012
+  P3 -> Calculo: 0.706567 s | Sync/Comm: 0.046026 s | Total: 0.752593 s | Primos: 129042
+  P4 -> Calculo: 0.752581 s | Sync/Comm: 0.000008 s | Total: 0.752589 s | Primos: 127457
+Particion: 2000000 | Primos totales: 664579
+  P0 -> Calculo: 0.366381 s | Sync/Comm: 0.333953 s | Total: 0.700335 s | Primos: 148933
+  P1 -> Calculo: 0.539600 s | Sync/Comm: 0.160696 s | Total: 0.700296 s | Primos: 134213
+  P2 -> Calculo: 0.654588 s | Sync/Comm: 0.045690 s | Total: 0.700279 s | Primos: 129703
+  P3 -> Calculo: 0.631330 s | Sync/Comm: 0.068881 s | Total: 0.700211 s | Primos: 126928
+  P4 -> Calculo: 0.700189 s | Sync/Comm: 0.000020 s | Total: 0.700208 s | Primos: 124802
