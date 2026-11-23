@@ -1,0 +1,9 @@
+Proceso 0 -> A: 7903646 | Bases validas: 30814442
+Proceso 1 -> A: 8778312 | Bases validas: 31119553
+Proceso 2 -> A: 9639286 | Bases validas: 31119553
+Proceso 3 -> A: 9384340 | Bases validas: 31064046
+Proceso 4 -> A: 3732283 | Bases validas: 13114763
+Proceso 5 -> A: 9133743 | Bases validas: 31119553
+Proceso 6 -> A: 9401492 | Bases validas: 31119553
+Proceso 7 -> A: 9097175 | Bases validas: 31009551
+Total procesos: 8 | Bases validas: 230481014 | Total A: 67070277 | Porcentaje A: 29.1001%
