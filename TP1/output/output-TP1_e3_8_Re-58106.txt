@@ -1,0 +1,1 @@
+Procesos (n): 8 | Pares: 4 | BW diseccion: 1118.54 MB/s (9383.00 Mbps)
