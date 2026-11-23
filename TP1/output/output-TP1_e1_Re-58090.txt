@@ -1,0 +1,10 @@
+Bytes: 1 | T_prom: 0.000026506 s
+Bytes: 1024 | T_prom: 0.000035250 s
+Bytes: 16384 | T_prom: 0.000061554 s
+Bytes: 65536 | T_prom: 0.000140774 s
+Bytes: 262144 | T_prom: 0.000363648 s
+Bytes: 1048576 | T_prom: 0.001049185 s
+Bytes: 16777216 | T_prom: 0.014452559 s
+Bytes: 67108864 | T_prom: 0.057784826 s
+Bytes: 134217728 | T_prom: 0.115349627 s
+Bytes: 268435456 | T_prom: 0.230340225 s
