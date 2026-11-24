@@ -6,9 +6,9 @@
 #include <omp.h>
 
 /*
-- Variables Compartidas (shared):
+- Variables shared:
     limite_max: solo lectura por todos los hilos para conocer la cota superior de busqueda.
-- Variables Privadas (private):
+- Variables private:
     n (indice del bucle paralelo) y las variables internas de es_primo (d, limite):
     cada hilo evalua distintos candidatos de forma independiente y necesita su propio estado.
 - Variables Reduccion (reduction(+:total_primos)):

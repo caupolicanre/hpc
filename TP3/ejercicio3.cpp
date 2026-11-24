@@ -5,10 +5,10 @@
 #include <omp.h>
 
 /*
-- Compartidas (shared):
+- Variables shared:
     Punteros/arreglos A, B, C y la dimension N. A y B son leidas concurrentemente por todos
     los hilos sin conflicto, mientras que cada hilo escribe en filas disjuntas de C (C[i*N + j]).
-- Privadas (private):
+- Variables private:
     Indices de iteracion i, k, j y el escalar temporal a_ik. Deben ser privados para que cada
     hilo recorra su propio subconjunto de filas e indices sin pisar los contadores de los demas.
 */
