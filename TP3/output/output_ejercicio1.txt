@@ -1,0 +1,6 @@
+Dimension de la matriz: 12000 x 12000 (144000000 elementos)
+Threads:  1 | Filas: 0.116958 s (S=1.00x, E=100.0%) | Columnas: 1.147667 s (S=1.00x, E=100.0%) | Ratio Col/Fila: 9.81x | Suma: 144000000
+Threads:  2 | Filas: 0.062752 s (S=1.86x, E=93.2%) | Columnas: 0.638785 s (S=1.80x, E=89.8%) | Ratio Col/Fila: 10.18x | Suma: 144000000
+Threads:  4 | Filas: 0.037960 s (S=3.08x, E=77.0%) | Columnas: 0.369754 s (S=3.10x, E=77.6%) | Ratio Col/Fila: 9.74x | Suma: 144000000
+Threads:  8 | Filas: 0.040625 s (S=2.88x, E=36.0%) | Columnas: 0.250398 s (S=4.58x, E=57.3%) | Ratio Col/Fila: 6.16x | Suma: 144000000
+Threads: 16 | Filas: 0.041934 s (S=2.79x, E=17.4%) | Columnas: 0.200547 s (S=5.72x, E=35.8%) | Ratio Col/Fila: 4.78x | Suma: 144000000

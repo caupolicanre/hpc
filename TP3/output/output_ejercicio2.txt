@@ -1,0 +1,16 @@
+Busqueda de primos hasta 10000000 | Primos encontrados: 664579 | Tiempo secuencial (1 hilo): 1.453032 s
+Schedule: static  | Threads:  1 | Tiempo: 1.453032 s | Speedup: 1.0000x | Eficiencia: 100.00% | Primos: 664579
+Schedule: static  | Threads:  2 | Tiempo: 0.968053 s | Speedup: 1.5010x | Eficiencia: 75.05% | Primos: 664579
+Schedule: static  | Threads:  4 | Tiempo: 0.560949 s | Speedup: 2.5903x | Eficiencia: 64.76% | Primos: 664579
+Schedule: static  | Threads:  8 | Tiempo: 0.357701 s | Speedup: 4.0621x | Eficiencia: 50.78% | Primos: 664579
+Schedule: static  | Threads: 16 | Tiempo: 0.242547 s | Speedup: 5.9907x | Eficiencia: 37.44% | Primos: 664579
+Schedule: dynamic | Threads:  1 | Tiempo: 1.453032 s | Speedup: 1.0000x | Eficiencia: 100.00% | Primos: 664579
+Schedule: dynamic | Threads:  2 | Tiempo: 0.780027 s | Speedup: 1.8628x | Eficiencia: 93.14% | Primos: 664579
+Schedule: dynamic | Threads:  4 | Tiempo: 0.462869 s | Speedup: 3.1392x | Eficiencia: 78.48% | Primos: 664579
+Schedule: dynamic | Threads:  8 | Tiempo: 0.274284 s | Speedup: 5.2975x | Eficiencia: 66.22% | Primos: 664579
+Schedule: dynamic | Threads: 16 | Tiempo: 0.199856 s | Speedup: 7.2704x | Eficiencia: 45.44% | Primos: 664579
+Schedule: guided  | Threads:  1 | Tiempo: 1.453032 s | Speedup: 1.0000x | Eficiencia: 100.00% | Primos: 664579
+Schedule: guided  | Threads:  2 | Tiempo: 0.762531 s | Speedup: 1.9055x | Eficiencia: 95.28% | Primos: 664579
+Schedule: guided  | Threads:  4 | Tiempo: 0.410639 s | Speedup: 3.5385x | Eficiencia: 88.46% | Primos: 664579
+Schedule: guided  | Threads:  8 | Tiempo: 0.262009 s | Speedup: 5.5457x | Eficiencia: 69.32% | Primos: 664579
+Schedule: guided  | Threads: 16 | Tiempo: 0.208724 s | Speedup: 6.9615x | Eficiencia: 43.51% | Primos: 664579

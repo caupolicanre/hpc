@@ -1,0 +1,21 @@
+Integracion numerica de Pi (20000000 pasos) | Tiempo secuencial base: 0.021605 s | Pi = 3.141592653590
+Esquema: reduction          | Threads:  1 | Tiempo: 0.024494 s | Speedup: 0.8821x | Eficiencia:  88.21% | Pi: 3.1415926536
+Esquema: reduction          | Threads:  2 | Tiempo: 0.012149 s | Speedup: 1.7783x | Eficiencia:  88.91% | Pi: 3.1415926536
+Esquema: reduction          | Threads:  4 | Tiempo: 0.010369 s | Speedup: 2.0835x | Eficiencia:  52.09% | Pi: 3.1415926536
+Esquema: reduction          | Threads:  8 | Tiempo: 0.006271 s | Speedup: 3.4450x | Eficiencia:  43.06% | Pi: 3.1415926536
+Esquema: reduction          | Threads: 16 | Tiempo: 0.007932 s | Speedup: 2.7238x | Eficiencia:  17.02% | Pi: 3.1415926536
+Esquema: critical_parcial   | Threads:  1 | Tiempo: 0.027308 s | Speedup: 0.7912x | Eficiencia:  79.12% | Pi: 3.1415926536
+Esquema: critical_parcial   | Threads:  2 | Tiempo: 0.013731 s | Speedup: 1.5734x | Eficiencia:  78.67% | Pi: 3.1415926536
+Esquema: critical_parcial   | Threads:  4 | Tiempo: 0.006105 s | Speedup: 3.5390x | Eficiencia:  88.48% | Pi: 3.1415926536
+Esquema: critical_parcial   | Threads:  8 | Tiempo: 0.006393 s | Speedup: 3.3794x | Eficiencia:  42.24% | Pi: 3.1415926536
+Esquema: critical_parcial   | Threads: 16 | Tiempo: 0.008853 s | Speedup: 2.4404x | Eficiencia:  15.25% | Pi: 3.1415926536
+Esquema: critical_iteracion | Threads:  1 | Tiempo: 0.102426 s | Speedup: 0.2109x | Eficiencia:  21.09% | Pi: 3.1415926536
+Esquema: critical_iteracion | Threads:  2 | Tiempo: 0.603664 s | Speedup: 0.0358x | Eficiencia:   1.79% | Pi: 3.1415926536
+Esquema: critical_iteracion | Threads:  4 | Tiempo: 1.600620 s | Speedup: 0.0135x | Eficiencia:   0.34% | Pi: 3.1415926536
+Esquema: critical_iteracion | Threads:  8 | Tiempo: 2.559192 s | Speedup: 0.0084x | Eficiencia:   0.11% | Pi: 3.1415926536
+Esquema: critical_iteracion | Threads: 16 | Tiempo: 3.659232 s | Speedup: 0.0059x | Eficiencia:   0.04% | Pi: 3.1415926536
+Esquema: ordered            | Threads:  1 | Tiempo: 0.104717 s | Speedup: 0.2063x | Eficiencia:  20.63% | Pi: 3.1415926536
+Esquema: ordered            | Threads:  2 | Tiempo: 0.098317 s | Speedup: 0.2197x | Eficiencia:  10.99% | Pi: 3.1415926536
+Esquema: ordered            | Threads:  4 | Tiempo: 0.097468 s | Speedup: 0.2217x | Eficiencia:   5.54% | Pi: 3.1415926536
+Esquema: ordered            | Threads:  8 | Tiempo: 0.100643 s | Speedup: 0.2147x | Eficiencia:   2.68% | Pi: 3.1415926536
+Esquema: ordered            | Threads: 16 | Tiempo: 0.116593 s | Speedup: 0.1853x | Eficiencia:   1.16% | Pi: 3.1415926536
